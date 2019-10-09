@@ -1,0 +1,17 @@
+.addValue{
+    width: 50%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.List{
+    width: 50%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.Top{
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0 ;
+    text-shadow: 15px 5px 5px rgb(168, 25, 49);
+}
